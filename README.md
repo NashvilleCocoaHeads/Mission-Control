@@ -9,4 +9,4 @@ A place to keep track of things needed to run [Nashville CocoaHeads](https://www
  
 ### What's Here?
 
-- Head over to the project to check out how we [manage our Meetup](Head over to the project).
+- Head over to the project to check out how we [manage our Meetup](https://github.com/NashvilleCocoaHeads/Mission-Control/projects/1?).
