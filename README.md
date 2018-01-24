@@ -6,6 +6,7 @@ A place to keep track of things needed to run [Nashville CocoaHeads](https://www
 
 - [Blake Merryman](https://twitter.com/blakemerryman) (lead)
 - [Addison Webb](https://twitter.com/addisonwebb)
+- [Patrick Goley](https://twitter.com/bitsbetweenbits)
  
 ### What's Here?
 
