@@ -13,7 +13,9 @@ Meeting Schedule:
 
 Feel free to bring your laptops, iOS devices, and any personal projects that you'd like to show off to the group!
 
-Thanks to [LunarLincoln](http://www.lunarlincoln.com/) for hosting this month!
+A special thanks to our sponsors this month:
+- LunarLincoln (www.lunarlincoln.com)
+- Smile Direct Club (www.smiledirectclub.com)
 
 You can contact our organizers on Twitter if you have an questions:
 - Blake Merryman (@blakemerryman)
